@@ -106,3 +106,18 @@ https://rss.sciencedirect.com/publication/science/13596454
 https://rss.sciencedirect.com/publication/science/18722067
 https://rss.sciencedirect.com/publication/science/00219517
 https://www.nature.com/commsphys.rss
+# ========================================
+# FPGA/SoC/EDA领域 (添加于2026-01-08)
+# ========================================
+
+# EDA - 电子设计自动化
+https://ieeexplore.ieee.org/rss/TOC43.XML
+
+# IC设计 - 集成电路设计期刊
+https://ieeexplore.ieee.org/rss/TOC4.XML
+https://ieeexplore.ieee.org/rss/TOC92.XML
+https://ieeexplore.ieee.org/rss/TOC8919.XML
+https://ieeexplore.ieee.org/rss/TOC8920.XML
+
+# arXiv硬件架构类别
+https://rss.arxiv.org/rss/cs.AR

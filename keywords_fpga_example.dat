@@ -1,0 +1,114 @@
+# ========================================
+# FPGA/SoC/EDA领域专业关键词示例
+# ========================================
+# 使用说明：
+# - 每行一个关键词或关键词组合
+# - 使用AND连接多个关键词进行精确匹配
+# - 复制需要的关键词到keywords.dat或设置到GitHub Secrets的RSS_KEYWORDS中
+
+# ========================================
+# FPGA架构与设计
+# ========================================
+FPGA
+Field-Programmable Gate Array
+Reconfigurable Computing
+LUT AND FPGA
+DSP AND FPGA
+BRAM
+Block RAM AND FPGA
+FPGA AND routing
+FPGA AND placement
+High-Level Synthesis AND FPGA
+HLS AND FPGA
+Partial Reconfiguration
+Dynamic Reconfiguration AND FPGA
+
+# ========================================
+# SoC架构
+# ========================================
+System-on-Chip
+SoC
+Network-on-Chip
+NoC
+FPGA AND SoC
+Zynq
+Heterogeneous Computing
+CPU AND FPGA
+GPU AND FPGA
+SoC AND FPGA
+
+# ========================================
+# EDA工具与方法
+# ========================================
+Electronic Design Automation
+EDA
+Logic Synthesis
+RTL Synthesis
+Place AND Route
+P&R AND FPGA
+Technology Mapping
+Timing Analysis
+Static Timing Analysis
+Formal Verification
+Hardware Verification
+Model Checking AND Hardware
+
+# ========================================
+# 硬件描述语言
+# ========================================
+Verilog
+SystemVerilog
+VHDL
+Chisel
+HDL
+RTL Design
+Register Transfer Level
+
+# ========================================
+# FPGA应用领域
+# ========================================
+FPGA AND Deep Learning
+FPGA AND Neural Network
+FPGA AND Accelerator
+FPGA AND CNN
+Hardware Accelerator AND FPGA
+Edge Computing AND FPGA
+FPGA AND Inference
+Low Power AND FPGA
+
+# ========================================
+# IC设计
+# ========================================
+ASIC
+Application-Specific Integrated Circuit
+VLSI
+Digital Circuit Design
+Analog Circuit Design
+Mixed-Signal Design
+Low-Power Design
+Power Management
+Clock Tree Synthesis
+Physical Design
+
+# ========================================
+# 测试与验证
+# ========================================
+DFT
+Design for Testability
+Scan Chain
+ATPG
+Built-in Self-Test
+BIST
+Functional Verification
+
+# ========================================
+# 先进工艺与架构
+# ========================================
+FinFET
+3D IC
+Chiplet
+Advanced Node
+7nm AND Design
+5nm AND Design
+Quantum Computing AND FPGA
+Neuromorphic AND FPGA
